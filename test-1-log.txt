@@ -1,0 +1,6 @@
+12:11:20:12:12|TCP|Bad packet received (CID #8432)
+04:25:21:54:22|Thread|Suspending CPU 3
+06:02:11:20:08|DB Mgr|Sending query: "SELECT * FROM users"
+01:07:08:12:00|UI-PANE2|Window received focus.
+04:25:21:54:21|Thread|Thread #12 blocking on join call to thread #4
+09:29:23:41:20|DB Mgr|Query results received ("SELECT * FROM users")

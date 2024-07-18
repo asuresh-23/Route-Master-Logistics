@@ -1,0 +1,7 @@
+# Test keyword search
+k CPU
+# Append search results to excerpt list
+r
+# Print excerpt list
+p
+q

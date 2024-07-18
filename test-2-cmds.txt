@@ -1,0 +1,7 @@
+# Test category search
+c tcp
+# Append log entry by entry ID
+a 3
+# Print excerpt list
+p
+q
